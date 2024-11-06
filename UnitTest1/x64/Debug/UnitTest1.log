@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\HP\source\repos\lab 8.1 itr\lab 8.1 itr\source.cpp(28,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\HP\source\repos\lab 8.1 itr\lab 8.1 itr\source.cpp(38,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
